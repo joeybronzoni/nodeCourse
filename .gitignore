@@ -14,6 +14,9 @@ yarn-error.log*
 #routes
 controllers/
 
+*#*#
+.#*
+
 #wes's markdown
 readme.md
 
