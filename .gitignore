@@ -14,6 +14,9 @@ yarn-error.log*
 #routes
 controllers/
 
+#wes's markdown
+readme.md
+
 #not sure where this came from 
 package-lock.json
 
