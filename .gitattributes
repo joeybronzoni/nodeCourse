@@ -1,2 +1,4 @@
+ #I wanted the language on github to be labeled javascript and not css. Because there was more bytes for the files containing .css it was labeled so and I created a .gitattributes file and added this to ignore the files labeled .css as vendered or third party. 
+
 public/* linguist-vendored
 
